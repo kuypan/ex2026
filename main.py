@@ -26,4 +26,4 @@ message = gettext.ngettext(
     count
 ) % {'num': count}
 print(message)
-
+print(message)
