@@ -27,3 +27,4 @@ message = gettext.ngettext(
 ) % {'num': count}
 print(message)
 print(message)
+print("2026")
